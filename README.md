@@ -71,8 +71,14 @@
 
 ![K49IHytBH5](https://user-images.githubusercontent.com/116347164/232290599-7c4474b7-db7a-4ed2-a11d-0a15315d5029.png)
 
+<h2> 
+  📊Dashboard-
+</h2>
+- With the help of Excel dashboard we can analyze the condition of each and also do comparision of different states on different parameter.
 
+![QSsifpBXs6](https://user-images.githubusercontent.com/116347164/232290845-d67f6d5e-1ea7-4721-be41-d321085bda93.png)
 
+https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/EXCEL%20FILES/NEW/COVID_19_DASHBORAD_MAIN_FILE.xlsx
 
 
 
